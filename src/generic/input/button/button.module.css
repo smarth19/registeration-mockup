@@ -1,0 +1,11 @@
+.button{
+    border-radius: var(--radius);
+    background-color: var(--blue);
+    color: white;
+    padding: 10px 0;
+    width: 100%;
+    font-family: var(--poppins);
+    margin: 10px;
+    font-weight: 600;
+    cursor: pointer;
+}
